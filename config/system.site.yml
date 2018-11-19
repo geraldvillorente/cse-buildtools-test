@@ -1,0 +1,14 @@
+uuid: 9bc70a74-09ad-46b5-ad5d-4770f43b86a5
+name: cse-buildtools-test
+mail: gerald@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
