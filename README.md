@@ -11,3 +11,7 @@
 # Modification by Kristoff
 
 # Anothr one after removing my self in the org.
+
+# Is this the real life, Is this just fantasy.
+
+# Caught in a landslide, no escape from reality.
